@@ -3,6 +3,7 @@
 Formula:
 
  ![alt text](image-4.png)
+ 
 Where:
 yii​ = actual value
 y^i = predicted value
