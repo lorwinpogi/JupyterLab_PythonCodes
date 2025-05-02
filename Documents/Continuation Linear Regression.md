@@ -2,7 +2,8 @@
 
 Formula:
 
-[ ![alt text](image-4.png)](https://www.gstatic.com/education/formulas2/553212783/en/mean_absolute_error.svg)
+![image](https://github.com/user-attachments/assets/7c69fe44-ccc8-4002-8ac1-32f8e7c1d91c)
+
  
 Where:
 yii​ = actual value
