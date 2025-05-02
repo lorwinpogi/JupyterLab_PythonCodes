@@ -33,7 +33,8 @@ print("Mean Absolute Error:", mae)
 
 Where:
 
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/d41b5b69-a008-4b6d-b88e-1be389c8b803)
+
 
 n: number of data points
 
@@ -74,7 +75,8 @@ print("Mean Squared Error:", mse)
 **Root Mean Squared Error (RMSE)** is a popular regression metric in machine learning. It’s the square root of the Mean Squared Error (MSE) and measures the average magnitude of prediction errors in the same units as the target variable.
 Formula:
 
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/fa37abba-f98d-409a-9f91-4be52c26da35)
+
 
 Where:
 yi​: actual value
@@ -132,7 +134,8 @@ print("Root Mean Squared Error:", rmse)
 **R-squared (R²)** is a regression performance metric that measures how well the predicted values from a model explain the variability of the actual target values. It is also known as the coefficient of determination.
 Formula:
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/41ab18a8-d334-4075-bbb2-1b6b50625c19)
+
 
 Where:
 SSres=∑(yi​−y^​i​)2 → residual sum of squares (errors)
