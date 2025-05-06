@@ -213,6 +213,7 @@ The algorithm finds patterns, weights, or rules in the training data that minimi
 
 Polynomial Regression formula: 
 
+![image](https://github.com/user-attachments/assets/1b466bf1-90ee-47bd-960e-17fce373ad0f)
 
 
 Where:
