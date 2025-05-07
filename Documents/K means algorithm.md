@@ -22,6 +22,7 @@ Repeat steps 3–4 until the centroids don't change much or a maximum number of 
 
 K-Means Formula:
 
+![image](https://github.com/user-attachments/assets/3bf3c093-768e-4c5d-b31b-53831c483217)
 
 
 Sample Code for K-Means:
